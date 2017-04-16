@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552213502945",
+    "firebase_url": "https://android-apps-6983a.firebaseio.com",
+    "project_id": "android-apps-6983a",
+    "storage_bucket": "android-apps-6983a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552213502945:android:24ccebf5be2e2bac",
+        "android_client_info": {
+          "package_name": "com.example.priyankaphapale.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552213502945-fh73bsfqoaf4ga3ia500bf1l0p50ckoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.priyankaphapale.chatapp",
+            "certificate_hash": "730cb529408ef2c7da785adb8e7430e2a3ba6b79"
+          }
+        },
+        {
+          "client_id": "552213502945-gorqru80odqe4cc7kk34eb0h5jg99kih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjNVFOtW-tILy4m5jsLuY40FdmXsPUQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552213502945-gorqru80odqe4cc7kk34eb0h5jg99kih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
